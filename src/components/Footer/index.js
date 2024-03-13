@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Madhav Murari. All rights reserved.
+          &copy; 2024 Madhav Murari. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
